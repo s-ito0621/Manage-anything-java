@@ -31,10 +31,8 @@
 # 使用方法
 scheduleapp_2のプロジェクトをAndroid studio開く
 
-## インポート方法
+## 授業で使用した説明動画
 
-1. 「TakiVR.unitypackage」はUnityのプロジェクトパッケージです。[このリンク](https://kan-kikuchi.hatenablog.com/entry/Unitypackage)に従ってimportしてください。
-2.  実験のシーンは「/Scenes/TakiVR」です。
-3.  シュミレーターモードなのでVRでは動きません。シュミレーターの操作方法は[このリンク](https://tech.framesynthesis.co.jp/unity/xr/#:~:text=%E3%81%A6%E3%81%8F%E3%81%A0%E3%81%95%E3%81%84%E3%80%82-,%E3%83%98%E3%83%83%E3%83%89%E3%82%BB%E3%83%83%E3%83%88%E3%81%AA%E3%81%97%E3%81%A7XR%20Origin%E3%82%92%E6%93%8D%E4%BD%9C%E3%81%99%E3%82%8B%E3%81%AB%E3%81%AF,-XR%20Device%20Simulator)に従ってください。
-## VRで動かしたい場合
-1.  TakiVRシーンのHierarchy上にある「XR Device Simulator」オブジェクトを[このリンク](https://tech.pjin.jp/blog/2021/03/31/unity_gameobject_component_on-off/)のように無効化
+
+https://github.com/s-ito0621/Manage-anything-java/assets/131466870/b05eedc2-1883-49cf-bd67-0c68da156f02
+
